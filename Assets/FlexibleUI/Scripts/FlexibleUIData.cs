@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-[CreateAssetMenu(menuName = "Flexible UI Data")]
+[CreateAssetMenu(menuName = "Data/Flexible UI Data")]
 public class FlexibleUIData : ScriptableObject
 {
     [Header("Button Color")]

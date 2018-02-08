@@ -17,7 +17,7 @@ MonoBehaviour:
       type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e6abdd863d92775499146f3597e8c430, type: 3}
     m_DisabledSprite: {fileID: 21300000, guid: c994789396ead004ca6e7f5c7650caeb, type: 3}
-  defaultColor: {r: 0.55152464, g: 0.74264705, b: 0.74264705, a: 1}
+  defaultColor: {r: 0.7266436, g: 0.89679044, b: 0.9411765, a: 1}
   confirmColor: {r: 0.456, g: 1, b: 0, a: 1}
   declineColor: {r: 0.962, g: 0.156, b: 0, a: 1}
   warningColor: {r: 0.963, g: 1, b: 0, a: 1}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: KeyBindingDefaultData
+  m_EditorClassIdentifier: Assembly-CSharp::KeyBindingDefaultData
+  horizontalInverted: 0
+  verticalInverted: 1
+  fpHorizontalInverted: 0
+  fpVerticalInverted: 1
+  bindedKeys:
+  - action: firstAction
+    key: 109
+    pressed: 0
+  - action: secondAction
+    key: 104
+    pressed: 0
+  - action: thirdAction
+    key: 115
+    pressed: 0
+  - action: fourthAction
+    key: 122
+    pressed: 0
